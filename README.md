@@ -11,9 +11,9 @@ Your contact list will be sent to the server, and it will respond with a list of
 and have registered. Click on their card and chat normally.
 
 Here are some sweet screenshots:
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/1.jpg)
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/2.jpg)
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/3.jpg)
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/4.jpg)
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/5.jpg)
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/6.jpg)
+![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingAndroid/master/assets/1.jpg)
+![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingAndroid/master/assets/2.jpg)
+![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingAndroid/master/assets/3.jpg)
+![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingAndroid/master/assets/4.jpg)
+![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingAndroid/master/assets/5.jpg)
+![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingAndroid/master/assets/6.jpg)
